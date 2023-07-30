@@ -1,4 +1,5 @@
 ###matlab
+
 Step 1, run csi_gesture.m for 3σ removal, wavelet noise reduction, and feature extraction
 Step 2, run data_pocess.m, perform normalization
 Step 3, call New_fisher.m, perform fisher algorithm by new_FS2, choose score greater than 0.12, use improved New_fisher algorithm
